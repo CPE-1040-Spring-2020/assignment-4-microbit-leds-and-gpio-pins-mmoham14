@@ -93,8 +93,18 @@ This assignment introduces the GPIO pins of the micro:bit. _Refer to the [criter
 
 ## Measurements
 
-_TODO: Record and describe your circuit measurements and calculations here._
+V is volts
+I is current
+R is resistance
+
+5= 470I
+
+I=V/R
+
+I=5v/(470ohms)
+I=0.0106A
+I=10.6mA
 
 ## Demo videos
 
-_TODO: Add your video descriptions and URLs here. The videos should clearly show the completion of the corresponding task._
+https://imgur.com/gallery/njpZYx3
