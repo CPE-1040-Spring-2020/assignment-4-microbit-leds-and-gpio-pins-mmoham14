@@ -107,6 +107,6 @@ I=10.6mA
 
 ## Demo videos
 
-https://imgur.com/gallery/njpZYx3
-https://imgur.com/gallery/jo5fn1w
-https://imgur.com/gallery/rlWwqQz
+[origninal.js](https://imgur.com/gallery/njpZYx3)
+[enable-matrix.js](https://imgur.com/gallery/jo5fn1w)
+[28.js](https://imgur.com/gallery/rlWwqQz)
