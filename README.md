@@ -109,3 +109,4 @@ I=10.6mA
 
 https://imgur.com/gallery/njpZYx3
 https://imgur.com/gallery/jo5fn1w
+https://imgur.com/gallery/rlWwqQz
